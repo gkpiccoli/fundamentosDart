@@ -1,3 +1,5 @@
+import 'dart:ffi';
+
 main() {
   // Para concatenar strings //
   var n1 = 7;
@@ -9,5 +11,9 @@ main() {
   // para saber o tipo da variável, por exemplo. //
 
   print(n1.runtimeType);
-  
+  print(n2.runtimeType);
+
+  // verificador is //
+
+  print(n2 is Float);
 }
