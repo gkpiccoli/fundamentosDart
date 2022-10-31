@@ -1,1 +1,2 @@
-# fundamentosDart
+## fundamentosDart
+- [x] Variáveis
