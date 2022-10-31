@@ -1,2 +1,0 @@
-# exerciciosDart
-Dart sintax basics
