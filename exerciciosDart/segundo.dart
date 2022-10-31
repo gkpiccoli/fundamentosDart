@@ -5,4 +5,9 @@ main() {
   var text = "O valor da soma é ";
 
   print(text + (n1 + n2).toString());
+
+  // para saber o tipo da variável, por exemplo. //
+
+  print(n1.runtimeType);
+  
 }
