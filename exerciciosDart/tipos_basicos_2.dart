@@ -28,7 +28,7 @@ void main() {
   print(cep.values);
   print(cep.entries);
 //Set
-  var cidades = {'Florianópolis', 'São José', 'Biguaçu', 'Rancho Queimado', 123, 456};
+  var cidades = {'Florianópolis', 'São José', 'Biguaçu', 'Rancho Queimado', 123, 456, "Santo Amaro"};
   print(cidades is Set);
   print(cidades.contains('Biguaçu'));
   print(cidades.length);
