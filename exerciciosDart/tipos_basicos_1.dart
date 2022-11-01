@@ -1,6 +1,6 @@
 /*
 - Números (int e double)
-- String (String)
+- String (String) 
 - Booleano (bool)
 - dynamic
 
