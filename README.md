@@ -6,3 +6,4 @@ Se também estiver aprendendo Dart e quiser trocar experirências basta me chama
 #keepcoding.
 - [x] Variáveis
 - [x] Constantes
+- [x] Tipos básicos Set | List | Map
