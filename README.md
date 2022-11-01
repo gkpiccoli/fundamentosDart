@@ -7,4 +7,4 @@ Se também estiver aprendendo Dart e quiser fazer alguma sugestão ou trocar exp
 - [x] Variáveis 
 - [x] Constantes
 - [x] Tipos básicos 
-- [] Tipos genéricos 
+- [] Operadores 
