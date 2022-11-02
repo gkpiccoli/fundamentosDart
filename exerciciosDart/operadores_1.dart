@@ -20,10 +20,4 @@ main() {
   print(!isExpensive); //NOT - Unário/Prefix
   print(!!isFragile); //
 
-  // Operadores Relacionais (Binários - Infix) Booleanos
-
-  print(5 > 7);
-  print(7 <= 8);
-  print(4 == 4);
-  print(4 == '3');
 }
