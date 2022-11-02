@@ -7,4 +7,6 @@ main() {
 
   print(a * b);
   print(1 + 2 * a);
+
+  
 }
