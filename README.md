@@ -9,3 +9,4 @@ Se também estiver aprendendo Dart e quiser fazer alguma sugestão ou trocar exp
 - [x] Tipos básicos 
 - [] Tipos genéricos 
 - [] Condicionais 
+- [] Funções Anônimas 
