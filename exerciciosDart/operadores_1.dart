@@ -9,6 +9,7 @@ main() {
   print(a % b);
   print(22 % b);
   print(a - b);
+  
 
   //Operadores Lógicos (bool)
 
