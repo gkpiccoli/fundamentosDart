@@ -21,7 +21,7 @@ main() {
 
   print(2 + 5 < 4 - 1 && 4 + 7 != 5 - 4);
 
-  //bit a bit
+  //operaçẽos bit a bit
 
   // 101 = 5 em números binários
   // 100 = 4 em números binários
