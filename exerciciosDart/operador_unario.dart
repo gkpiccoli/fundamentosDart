@@ -11,4 +11,8 @@ main() {
   print(x);
 
   print(x++ == --z);
+
+  // Operador Lógico Unário - NOT
+  print(!true);
+  print(!false);
 }
