@@ -2,7 +2,7 @@
 - Números (int e double)
 - String (String) 
 - Booleano (bool)
-- dynamic
+- Dynamic (int, double, string)
 
 */
 
@@ -18,7 +18,7 @@ void main() {
   print(n3.runtimeType);
 
   String t1 = "Buenas";
-  String t2 = "tardes";
+  String t2 = "Tardes";
 
   print(t1 + t2.toUpperCase() + "!?.");
 
