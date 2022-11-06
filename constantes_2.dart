@@ -8,7 +8,7 @@ main() {
   print(list);
 
 //Se fosse final, não conseguiria editar.
-  var list2 = const ['Dog', 'Cat', 'Dinossaur'];
+  var list2 = const ['Dog', 'Cat', 'Dinosaur'];
 
   print(list2);
 
