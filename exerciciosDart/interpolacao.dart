@@ -6,4 +6,5 @@ main() {
   String phrase = "$status fi du $name zzzzz $number";
 
   print(phrase);
+  print("25 + 35 is = ${25 + 35}");
 }
