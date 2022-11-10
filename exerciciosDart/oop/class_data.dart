@@ -1,3 +1,8 @@
 main(){
-  class Data
+  
+}
+class Data(){
+  int dia;
+  int mes;
+  int ano;
 }
