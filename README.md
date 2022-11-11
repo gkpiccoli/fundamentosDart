@@ -1,8 +1,8 @@
 ## fundamentosDart
 
 Anotações sobre as funcionalidades do Dart.
-Os códigos são fruto de estudo, revisão de alguns passos do curso cod3r.
-Se também estiver aprendendo Dart e quiser fazer alguma sugestão ou trocar experirências basta me chamar!
+Os códigos são fruto de estudo, revisão de alguns passos do curso cod3r, documentação, traduçōes, etc.
+Se também estiver aprendendo Dart e quiser fazer alguma correção/sugestão/ajuste ou trocar experirências basta me chamar!
 #keepcoding.
 - [x] Variáveis 
 - [x] Constantes
@@ -10,4 +10,4 @@ Se também estiver aprendendo Dart e quiser fazer alguma sugestão ou trocar exp
 - [x] Tipos genéricos 
 - [x] Condicionais 
 - [x] Funções Anônimas 
-- [ ] Programação orientada à objetos 
+- [] Programação orientada à objetos 
