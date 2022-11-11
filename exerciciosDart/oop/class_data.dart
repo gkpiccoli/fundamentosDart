@@ -1,8 +1,10 @@
 main(){
   
 }
-class Data(){
-  int dia;
-  int mes;
-  int ano;
+class Person{
+  String firstName;
+  String middleName;
+  String lastName;
+  
+  String getFullName () => "$firstName $middleName $lastName";
 }
