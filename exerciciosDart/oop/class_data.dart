@@ -1,5 +1,5 @@
 main(){
-  
+  Person somePerson = newPerson();
 }
 class Person{
   String firstName;
