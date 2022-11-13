@@ -10,4 +10,4 @@ Se também estiver aprendendo Dart e quiser fazer alguma correção/sugestão/aj
 - [x] Tipos genéricos 
 - [x] Condicionais 
 - [x] Funções Anônimas 
-- [] Programação orientada à objetos 
+- [x] Programaçãoo orientada à objetos 
