@@ -1,5 +1,6 @@
 main(){
   Person somePerson = newPerson();
+  somePerson.firstName 
 }
 class Person{
   String firstName;
@@ -7,4 +8,5 @@ class Person{
   String lastName;
   
   String getFullName () => "$firstName $middleName $lastName";
+  print(getFullName)
 }
