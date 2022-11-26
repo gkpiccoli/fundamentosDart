@@ -1,7 +1,15 @@
-class bDay {
+class Data {
   late int day;
   late int month;
   late int year;
+
+  String formatted() {
+    return "$day/$month/$year";
+  }
+
+  String toString() {
+    return formatted();
+  }
 }
 
 // Classe é o projeto, molde, à partir dele você consegue criar objetos;
@@ -9,11 +17,24 @@ class bDay {
 // Late modifier
 
 void main() {
-  var birthDay = new bDay();
+  var birthDay = new Data();
 // new não é obrigatório
   birthDay.day = 03;
   birthDay.month = 09;
   birthDay.year = 1992;
 
-  print("${birthDay.day}/${birthDay.month}/${birthDay.year}");
+  Data buyDate = Data();
+
+  buyDate.day = 27;
+  buyDate.month = 04;
+  buyDate.year = 1997;
+
+  // print("${birthDay.day}/${birthDay.month}/${birthDay.year}");
+  // print("${buyDate.day}/${buyDate.month}/${buyDate.year}");
+
+  String f1 = birthDay.formatted();
+
+  print("O dia do aniversário é $f1");
+  print("Data aniver Pami ${buyDate.formatted()} ");
+  print(buyDate);
 }
