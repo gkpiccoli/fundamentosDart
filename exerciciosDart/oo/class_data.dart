@@ -1,6 +1,6 @@
 main(){
   Person somePerson = newPerson();
-  somePerson.firstName 
+  somePerson.firstName; 
 }
 class Person{
   String firstName;
