@@ -1,6 +1,6 @@
 class Data {
   late int day;
-  late int month;
+  late double month;
   late int year;
 
   String formatted() {
@@ -11,7 +11,7 @@ class Data {
     return formatted();
   }
 }
-
+// No Dart tudo é objeto;
 // Classe é o projeto, molde, à partir dele você consegue criar objetos;
 // Pode-se instanciar quantos objetos quiser;
 // Dentro de uma classe, uma função é chamada de mét0d0;
