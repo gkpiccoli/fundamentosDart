@@ -7,9 +7,12 @@ class Data {
   //   this.day = initDay;
   //   this.month = initMonth;
   //   this.year = initYear;
+
+  
   // }
 
-  Data(this.day, this.month, this.year);
+  //Data(this.day, this.month, this.year);
+  Data([this.day = 1, this.month = 3, this.year = 1994]);
 
   String formatted() {
     return "$day/$month/$year";
