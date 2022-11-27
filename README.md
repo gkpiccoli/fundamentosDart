@@ -13,3 +13,4 @@ Se também estiver aprendendo Dart e quiser fazer alguma correção/sugestão/aj
 - [x] Programação orientada à objetos:
 * Métodos
 * Construtores
+* Encapsulamento
