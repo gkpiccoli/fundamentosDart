@@ -8,11 +8,12 @@ class Data {
   //   this.month = initMonth;
   //   this.year = initYear;
 
-  
+// Parametros nomeados
+  Data({this.day = 1, this.month = 3, this.year = 1994});
+
   // }
 
   //Data(this.day, this.month, this.year);
-  Data([this.day = 1, this.month = 3, this.year = 1994]);
 
   String formatted() {
     return "$day/$month/$year";
@@ -24,6 +25,9 @@ void main() {
   birthday.day = 12;
   birthday.month = 12;
   birthday.year = 1992;
+
+  var dataFinal = Data(2, 5, 6);
+  print(dataFinal);
 
   print(birthday);
   print(birthday.toString());
