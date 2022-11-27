@@ -11,5 +11,5 @@ Se também estiver aprendendo Dart e quiser fazer alguma correção/sugestão/aj
 - [x] Condicionais 
 - [x] Funções Anônimas 
 - [x] Programação orientada à objetos:
-- Métodos
-- Construtores
+* Métodos
+* Construtores
