@@ -1,7 +1,7 @@
 class Data {
-  late int day;
-  late double month;
-  late int year;
+  int? day;
+  int? month;
+  int? year;
 
   String formatted() {
     return "$day/$month/$year";
