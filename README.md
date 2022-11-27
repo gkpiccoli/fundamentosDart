@@ -15,3 +15,4 @@ Se também estiver aprendendo Dart e quiser fazer alguma correção/sugestão/aj
 * Construtores
 * Encapsulamento
 * Classes abstratas
+* Extensão
