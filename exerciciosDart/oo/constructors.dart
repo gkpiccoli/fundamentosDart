@@ -8,4 +8,18 @@ class Data {
     month = initMonth;
     year = initYear;
   }
+
+  String formatted() {
+    return "$day/$month/$year";
+  }
+
+  String formattedString() {
+    return formatted();
+  }
+}
+
+void main() {
+  var birthday = Data(1, 3, 1993);
+
+  print(birthday);
 }
