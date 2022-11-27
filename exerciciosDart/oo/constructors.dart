@@ -21,14 +21,14 @@ class Data {
 }
 
 void main() {
-  var birthday = Data(1, 3, 1993);
+  var birthday = Data();
   birthday.day = 12;
   birthday.month = 12;
   birthday.year = 1992;
 
-  var dataFinal = Data(2, 5, 6);
+  var dataFinal = Data();
   print(dataFinal);
 
-  print(birthday);
+  print(birthday.formatted());
   print(birthday.toString());
 }
