@@ -3,17 +3,17 @@ class Data {
   int? month;
   int? year;
 
-  Data(int initDay, int initMonth, int initYear) {
-    this.day = initDay;
-    this.month = initMonth;
-    this.year = initYear;
-  }
+  // Data(int initDay, int initMonth, int initYear) {
+  //   this.day = initDay;
+  //   this.month = initMonth;
+  //   this.year = initYear;
+  // }
+
+  Data(this.day, this.month, this.year);
 
   String formatted() {
     return "$day/$month/$year";
   }
-
- 
 }
 
 void main() {
