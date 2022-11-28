@@ -1,5 +1,5 @@
 class Compra {
-  String valor;
+  int valor;
   String descricao;
   String data;
 
